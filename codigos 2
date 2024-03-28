@@ -1,0 +1,4 @@
+SELECT * FROM 'alunoa' ORDER BY id;
+SELECT * FROM 'alunoa' ORDER BY estado;
+SELECT * FROM 'alunoa' ORDER BY idade;
+SELECT * FROM 'alunoa' ORDER BY nome;
